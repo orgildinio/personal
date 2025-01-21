@@ -1,5 +1,11 @@
 # @tszhong0411/eslint-config
 
+## 0.1.23
+
+### Patch Changes
+
+- [`8987924`](https://github.com/tszhong0411/honghong.me/commit/8987924d3ef98b1eb092bc3fad8bdbbe09b894f1) Thanks [@tszhong0411](https://github.com/tszhong0411)! - Modify accessibility rules for non-interactive elements
+
 ## 0.1.22
 
 ### Patch Changes
